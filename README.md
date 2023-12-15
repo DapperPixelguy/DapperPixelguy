@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello!
+Amateur software developer
+
+#Contact and links
+@ https://dapperpixelguy.wtf
+
+
 
 <!--
 **DapperPixelguy/DapperPixelguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
