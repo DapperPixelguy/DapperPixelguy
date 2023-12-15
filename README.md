@@ -1,7 +1,7 @@
 ## Hello!
 Amateur software developer
 
-#Contact and links
+## Contact and links
 @ https://dapperpixelguy.wtf
 
 
